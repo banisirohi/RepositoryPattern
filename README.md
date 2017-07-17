@@ -1,3 +1,3 @@
 # RepositoryPattern
 
-# This application demonstrate repository pattern in general.
+This application demonstrate repository pattern in general.
